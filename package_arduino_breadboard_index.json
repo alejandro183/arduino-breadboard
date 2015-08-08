@@ -14,9 +14,9 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "atmega328",
-          "url": "https://github.com/alejandro183/arduino-breadboard/blob/master/atmega328.zip?raw=true",
-          "archiveFileName": "atmega328.zip",
-          "checksum": "SHA-256:006f484d5eaea10940f08dd81589137b7c107c1ea1002c60e321d4026ba02439",
+          "url": "http://oranginam.free.fr/download/atmega328standalone8mhzinternalclock.zip",
+          "archiveFileName": "atmega328standalone8mhzinternalclock.zip",
+          "checksum": "SHA-256:E8FA7EF80EF829E429DCDBA415760F915A0AC40AFA7DC44C3E36A351BFBC61C3",
           "size": "1554",
           "boards": [
             {"name": "Atmega328 Breadboard"}
