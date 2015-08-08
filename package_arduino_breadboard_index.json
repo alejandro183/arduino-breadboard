@@ -16,6 +16,8 @@
           "category": "atmega328",
           "url": "https://github.com/alejandro183/arduino-breadboard/blob/master/atmega328.zip",
           "archiveFileName": "atmega328.zip",
+          "checksum": "SHA1:2da3e2d5e979eb93b7d5df47100569799673c25b",
+          "size": "1554",
           "boards": [
             {"name": "Atmega328 Breadboard"}
           ],
