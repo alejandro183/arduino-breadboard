@@ -17,7 +17,7 @@
           "url": "http://oranginam.free.fr/download/atmega328standalone8mhzinternalclock.zip",
           "archiveFileName": "atmega328standalone8mhzinternalclock.zip",
           "checksum": "SHA-256:E8FA7EF80EF829E429DCDBA415760F915A0AC40AFA7DC44C3E36A351BFBC61C3",
-          "size": "1554",
+          "size": "606",
           "boards": [
             {"name": "Atmega328 Breadboard"}
           ],
